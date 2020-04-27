@@ -7,8 +7,7 @@ version that can handle linking header/definition files if necessary.
 # Usage
 To use the script globally, like a regular terminal command, you
 must add a directory containing this script to the PATH variable. The
-PATH variable tells the shell to look for terminal commands in all of
-its directories.
+PATH variable tells the shell where to look for terminal commands.
 
 # Adding a directory to PATH
 On macOS Catalina, I made a directory `/Users/justin/bin`, where I save any

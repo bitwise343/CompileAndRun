@@ -23,6 +23,9 @@ cprdo='compile_and_run.sh --overwrite true --post_delete true'
 cpr='compile_and_run.sh'
 ```
 
+Give the `compile_and_run.sh` script `u+x` permissions to make it executable
+for your user using `chmod u+x compile_and_run.sh`.
+
 # Command Line Options:
 #### There's one positional argument:
 ```
